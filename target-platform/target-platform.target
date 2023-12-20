@@ -4,7 +4,8 @@
 	<locations>
 		<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
 			<repository location="https://download.eclipse.org/releases/2023-12"/>
-			<unit id="org.eclipse.sdk.feature.group" version="4.30.0.v20231201-0512"/>
+			   <unit id="org.eclipse.equinox.sdk.feature.group" version="0.0.0"/>
+   			   <unit id="org.eclipse.platform.feature.group" version="0.0.0"/>
 		</location>
 		<location includeDependencyDepth="none" includeDependencyScopes="compile" includeSource="true" missingManifest="generate" type="Maven">
 			<dependencies>
