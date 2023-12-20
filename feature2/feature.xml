@@ -16,8 +16,5 @@
       [Enter License Description here.]
    </license>
 
-   <includes
-         id="feature1"
-         version="1.0.0-SNAPSHOT"/>
 
 </feature>

@@ -139,12 +139,12 @@
 
 
         <module>plugin1</module>
-        <module>update-site</module>
-        <module>product</module>
-
-        <!-- 
         <module>feature1</module>
         <module>feature2</module>
+        <module>update-site</module>
+        <module>product</module>
+        <!-- 
+
 
             
             <module>com.vogella.tycho.plugin1.tests</module>

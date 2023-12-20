@@ -15,7 +15,6 @@
    </plugins>
 
    <features>
-      <feature id="feature2" installMode="root"/>
       <feature id="org.eclipse.e4.rcp" installMode="root"/>
       <feature id="org.eclipse.equinox.executable" installMode="root"/>
    </features>
